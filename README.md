@@ -29,7 +29,7 @@
 - 🦧 **Development of Information Systems.**
 - 🐉 **Web developer.**
 - 🐱‍👓 **Youtube.** https://www.youtube.com/@user-wc2sr7uc7m/playlists
-<br>
+
 <hr>
 
 <h4 align="left">Languages:</h4>
