@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **JavaScript, react.**
 - 🦧 **Development of Information Systems.**
 - 🐉 **Web developer.**
-- 🐱‍👓 **Youtube.** https://www.youtube.com/@user-wc2sr7uc7m/playlists
+- <p> <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"  width="60px"> **Youtube.** https://www.youtube.com/@user-wc2sr7uc7m/playlists </p>
 
 <hr>
 
