@@ -29,7 +29,7 @@
 - 🦧 **Development of Information Systems.**
 - 🐉 **Web developer.**
 - <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"  width="17px"> **Youtube** https://www.youtube.com/@user-wc2sr7uc7m/playlists 
-- <img src="https://cdn-icons-png.flaticon.com/128/717/717336.png"  width="17px"> **Codepen** https://codepen.io/PaulRev 
+- <img src="https://cdn-icons-png.flaticon.com/128/1530/1530182.png"  width="17px"> **Codepen** https://codepen.io/PaulRev 
 
 <hr>
 
