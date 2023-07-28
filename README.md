@@ -26,6 +26,8 @@
 
 
 - 🌱 I’m currently learning **JavaScript,react.**
+- 🦧 **Development of Information Systems.**
+- 🐉 **Web developer.**
 
 
 
