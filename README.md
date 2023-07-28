@@ -7,7 +7,7 @@
 
 
 
-<h4  align="left"> Hello! I'm a junior frontend developer with two years of experience in the field. I'm passionate about creating engaging and functional user experiences through programming and web design.  </h4>
+<h4  align="left"> Hello! I am a front-end developer with two years of experience. I am passionate about Programming and Web Design. 🤪 </h4>
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
