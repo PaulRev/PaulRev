@@ -28,6 +28,7 @@
 - 🌱 I’m currently learning **JavaScript,react.**
 - 🦧 **Development of Information Systems.**
 - 🐉 **Web developer.**
+- 🐱‍👓 **Web developer.** https://www.youtube.com/@user-wc2sr7uc7m/playlists
 
 
 
