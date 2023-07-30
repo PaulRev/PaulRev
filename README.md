@@ -10,10 +10,10 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<br>
+
 
 <hr>
-
+<br>
 <br> 
 
 
