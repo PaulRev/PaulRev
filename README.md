@@ -26,7 +26,6 @@
 - 🌱 I’m currently learning **JavaScript, react.**
 - 🦧 **Development of Information Systems.**
 - 🐉 **Web developer.**
-- <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"  width="17px"> **Youtube** (https://www.youtube.com/channel/UCD8V-MPuaFtBZ7K1u-YtknA) 
 
 <hr>
 
