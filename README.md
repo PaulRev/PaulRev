@@ -6,7 +6,7 @@
 
 
 
-<h3  align="left"> Hello! I am a front-end developer with two years of experience. I am passionate about Programming and Web Design. 🤪 </h3>
+<h3  align="left"> Hello! My name is Paul, a front-end developer. I am passionate about programming and web design. 🤪" </h3>
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
