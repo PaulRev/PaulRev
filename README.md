@@ -1,38 +1,26 @@
 
 
-<h1 align="center">Hi.... <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMxOThmY2UxOGE0YmVlYjA5NmE0YTFjM2IwNjExZjE5ZWZiMTAwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/McDxBilGiX2WaT1YLQ/giphy.gif"  width="60px"> 
-
+<h1 align="center">Hola.... <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMxOThmY2UxOGE0YmVlYjA5NmE0YTFjM2IwNjExZjE5ZWZiMTAwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/McDxBilGiX2WaT1YLQ/giphy.gif"  width="60px"> 
 </h1>
 
 
-
-<h3  align="left"> Hello! My name is Paul, a front-end developer. I am passionate about programming and web design. 🤪" </h3>
-
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h2  align="left"> ¡Hola! Mi nombre es Paul, un desarrollador front-end. Me apasiona la programación y el diseño web. </h2>
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-- 🌱 I’m currently learning **JavaScript, react.**
-- 🦧 **Development of Information Systems.**
+- 🌱 Actualmente estoy aprendiendo: **React.**
+- 🦧 **Desarrollo de Sistemas de Información..**
 - 🐉 **Web developer.**
 
 <hr>
+<h2>Tecnologías:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,html,css,bootstrap,tailwind,js,react,py,mysql"/>
+  </a>
+</p>
 
-<h4 align="left">Languages:</h4>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
+<hr>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PaulRev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 
 
